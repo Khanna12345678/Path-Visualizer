@@ -1,50 +1,47 @@
-# 🗺 Path finding visualizer
+🗺 Path Finding Visualizer
 
-###### Watch on youtube
+An interactive visualization of Dijkstra's, BFS, and DFS path finding algorithms.
 
-[![Watch the video](https://wajeshubham-portfolio.s3.ap-south-1.amazonaws.com/Path+finding+visualizer.png)](https://youtu.be/IL6I25CXQuw)
-
-An interactive visualization of Dijkstra's, BFS, and DFS path finding algorithms
-
-# 🎬 Getting Started
+🎬 Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-# 🛠 Prerequisites
+🛠 Prerequisites
 
-You need to have [NodeJS](https://nodejs.org/en/download/) installed
+You need to have NodeJS
+ installed.
 
-# 🍽 Installing
+🍽 Installing
 
-To get a development env running after cloning the project
-Install the dependencies
+To get a development environment running after cloning the project:
 
-`npm install`
+Install the dependencies:
 
-Start the development server
+npm install
 
-`npm run dev`
 
-# 🏗 Built With
+Start the development server:
 
-- ⚡️ [Vite](https://vitejs.dev/) - The next generation of frontend tooling
+npm run dev
 
-- ⚛️ [ReactJs](https://reactjs.org/) - Probably the best Javascript library
+🏗 Built With
 
-- 💪🏼 [TypeScript](https://www.typescriptlang.org/) - If you are planning on staying in the programming field for the long run, you should learn TypeScript.
+⚡️ Vite
+ - The next generation of frontend tooling
 
-- 💨 [TailwindCSS](https://tailwindcss.com/) - Bootstrap killer
+⚛️ ReactJs
+ - Popular JavaScript library
 
-# 🙌🏼 Contributing
+💪🏼 TypeScript
+ - For type-safe programming
+
+💨 TailwindCSS
+ - Utility-first CSS framework
+
+🙌🏼 Contributing
 
 Contributions are always welcome :-)
 
-# 👨🏻‍💻 Authors
+👨🏻‍💻 Author
 
-- Shubham Waje - [wajeshubham](https://github.com/wajeshubham)
-
-See also the list of [contributors](https://github.com/wajeshubham/path-finder/contributors) who participated in this project.
-
-# 🪪 License
-
-This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/wajeshubham/path-finder/blob/main/LICENSE.md) file for details
+Nitesh Khanna - niteshkhanna
